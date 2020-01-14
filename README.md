@@ -54,12 +54,13 @@
 
 ## 方楠 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 
-- [ ] 测试
+- [ ] SR in Wavelet Domain
+- [ ] Dictionary learning (Kaiming He) for SR
 
 
 ## 李相 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 
-测试
+- [ ] Face sketch synthesis via global & local & generalized gradient loss & Gabor loss
 
 ## 阮杰 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 
@@ -67,4 +68,7 @@
 
 ## 沈傅豪 <img src="https://img.shields.io/badge/Grade-大三-ffadd2"></img>
 
-测试
+- [ ] 3D NAS for Cancer
+- [ ] Segmentation
+- [ ] Image Style Transfer
+ 
