@@ -3,7 +3,7 @@
  * @Author: shaonianruntu
  * @Github: 
  * @Date: 2020-01-14 10:12:44
- * @LastEditTime : 2020-01-14 10:26:09
+ * @LastEditTime : 2020-01-14 10:30:35
  -->
 # Calendar
 
@@ -37,12 +37,12 @@
 测试
 
 ## 戴玲娜  <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研二-f759ab"></img></a>
-- [x] <img src="https://img.shields.io/badge/Tag-组会-green"></img> 组会准备论文 [SinGAN](https://arxiv.org/abs/1905.01164)  
-- [ ] <img src="https://img.shields.io/badge/Tag-科研-green"></img> 使用 SinGAN 来做画像生成
+- [x] <img src="https://img.shields.io/badge/Category-组会-green"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 组会准备论文 [SinGAN](https://arxiv.org/abs/1905.01164)  
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 使用 SinGAN 来做画像生成
   - [x] 和 xx 做一组对照试验
     > 可以考虑使用 XX 方法
   - [ ] ACB
-- [ ] <img src="https://img.shields.io/badge/Tag-其他-green"></img> 写年终总结报告，上交到[邮箱](mailto:address@example.com)
+- [ ] <img src="https://img.shields.io/badge/Category-其他-green"></img> 写年终总结报告，上交到[邮箱](mailto:address@example.com)
 - [ ] 测试
 
 
