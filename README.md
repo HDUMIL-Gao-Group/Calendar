@@ -3,7 +3,7 @@
  * @Author: shaonianruntu
  * @Github: 
  * @Date: 2020-01-14 10:12:44
- * @LastEditTime : 2020-01-14 11:49:22
+ * @LastEditTime : 2020-01-14 12:00:50
  -->
 # Calendar
 
@@ -39,7 +39,7 @@
 
 ## 戴玲娜  <img src="https://img.shields.io/badge/Grade-研二-f759ab"></img>
 
-- [x] <img src="https://img.shields.io/badge/Category-组会-green"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 组会准备论文 [SinGAN](https://arxiv.org/abs/1905.01164)  
+- [x] <img src="https://img.shields.io/badge/Category-论文讲解-green"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 组会准备论文 [SinGAN](https://arxiv.org/abs/1905.01164)  
 - [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 使用 SinGAN 来做画像生成
   - [x] 和 xx 做一组对照试验
     > 可以考虑使用 XX 方法
