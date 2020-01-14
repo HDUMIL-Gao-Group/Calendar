@@ -3,7 +3,7 @@
  * @Author: shaonianruntu
  * @Github: 
  * @Date: 2020-01-14 10:12:44
- * @LastEditTime : 2020-01-14 10:30:35
+ * @LastEditTime : 2020-01-14 11:39:51
  -->
 # Calendar
 
@@ -15,7 +15,7 @@
   - [Table Of Contents](#table-of-contents)
   - [黄菲 <a href="https://github.com/okingjerryo"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>](#%e9%bb%84%e8%8f%b2-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%b8%89-eb2f96%22img)
   - [徐兴歆 <a href="https://github.com/jehovahxu"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>](#%e5%be%90%e5%85%b4%e6%ad%86-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%b8%89-eb2f96%22img)
-  - [:pig: 朱静洁 <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>](#%e6%9c%b1%e9%9d%99%e6%b4%81-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%b8%89-eb2f96%22img)
+  - [朱静洁 <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>](#%e6%9c%b1%e9%9d%99%e6%b4%81-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%b8%89-eb2f96%22img)
   - [戴玲娜  <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研二-f759ab"></img></a>](#%e6%88%b4%e7%8e%b2%e5%a8%9c-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%ba%8c-f759ab%22img)
   - [尚梅梅 <a href="#"><img src="https://img.shields.io/badge/Grade-研二-f759ab"></img></a>](#%e5%b0%9a%e6%a2%85%e6%a2%85-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%ba%8c-f759ab%22img)
   - [方楠 <a href="https://github.com/shaonianruntu"><img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img></a>](#%e6%96%b9%e6%a5%a0-img-src%22httpsimgshieldsiobadgegrade-%e7%a0%94%e4%b8%80-ff85c0%22img)
@@ -30,11 +30,12 @@
 
 ## 徐兴歆 <a href="https://github.com/jehovahxu"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>
 
-测试
+- [ ] <img src="https://img.shields.io/badge/Category-数据集-green"></img>  [人脸光照数据集](https://github.com/yangyuke001/FIIQA-PyTorch)，可以用来去光照，和人脸光照质量评价
+- [ ] <img src="https://img.shields.io/badge/Category-参考资料-green"></img> <img src="https://img.shields.io/badge/Topic-风格转换-orange"></img> 油画、插画、漫画的工作，可以参考：[style2paints](https://github.com/lllyasviel/style2paints)
 
-## :pig: 朱静洁 <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>
+## 朱静洁 <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img></a>
 
-测试
+- [ ] <img src="https://img.shields.io/badge/Category-数据集-green"></img>  [人脸光照数据集](https://github.com/yangyuke001/FIIQA-PyTorch)，可以用来去光照，和人脸光照质量评价
 
 ## 戴玲娜  <a href="https://github.com/Ricelll"><img src="https://img.shields.io/badge/Grade-研二-f759ab"></img></a>
 - [x] <img src="https://img.shields.io/badge/Category-组会-green"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 组会准备论文 [SinGAN](https://arxiv.org/abs/1905.01164)  
@@ -48,7 +49,7 @@
 
 ## 尚梅梅 <a href="#"><img src="https://img.shields.io/badge/Grade-研二-f759ab"></img></a>
 
-测试
+- [ ] <img src="https://img.shields.io/badge/Category-数据集-green"></img>  [人脸光照数据集](https://github.com/yangyuke001/FIIQA-PyTorch)，可以用来去光照，和人脸光照质量评价
 
 ## 方楠 <a href="https://github.com/shaonianruntu"><img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img></a>
 
