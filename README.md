@@ -33,18 +33,18 @@
 
 ## 全部
 
--[ ] <img src="https://img.shields.io/badge/Category-其他-green"></img> 写年终总结报告，2020-01-16日提交到[邮箱](mailto:gaofei@hdu.edu.cn)
+- [ ]<img src="https://img.shields.io/badge/Category-其他-green"></img> 写年终总结报告，2020-01-16日提交到[邮箱](mailto:gaofei@hdu.edu.cn)
 
 ## 黄菲 <img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img>
 
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SPADE-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-StyleGAN-brightgreen"></img>使用SPADE+StyleGAN来做多风格画像生成
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SPADE-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-StyleGAN-brightgreen"></img>使用SPADE+StyleGAN+CycleGAN来做插画/动漫生成
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SPADE-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-StyleGAN-brightgreen"></img> 使用SPADE+StyleGAN来做多风格画像生成
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SPADE-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-StyleGAN-brightgreen"></img> 使用SPADE+StyleGAN+CycleGAN来做插画/动漫生成
 
       -[ ] 跟戴玲娜合作
 
 ## 徐兴歆 <img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img>
 
-- [ ] <img src="https://img.shields.io/badge/Category-数据集-green"></img> <img src="https://img.shields.io/badge/Topic-人脸光照-orange"></img> [人脸光照数据集](https://github.com/yangyuke001/FIIQA-PyTorch)，人脸图像去光照
+- [ ] <img src="https://img.shields.io/badge/Category-数据集-green"></img> <img src="https://img.shields.io/badge/Topic-人脸光照-orange"></img> [人脸光照数据集](https://github.com/yangyuke001/FIIQA-PyTorch)，人脸图像去光照 
       - [ ] 跟朱静洁合作
 - [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-风格转换-orange"></img> 敦煌壁画修复，可以参考：[style2paints](https://github.com/lllyasviel/style2paints)
 
@@ -55,7 +55,7 @@
 ## 戴玲娜  <img src="https://img.shields.io/badge/Grade-研二-f759ab"></img>
 
 - [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SinGAN-brightgreen"></img> 使用[SinGAN](https://arxiv.org/abs/1905.01164)  来做画像生成
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img><img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SPADE-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-StyleGAN-brightgreen"></img>使用SPADE+StyleGAN+CycleGAN来做插画/动漫生成
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img><img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Sketch-orange"></img> <img src="https://img.shields.io/badge/Tag-SPADE-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-StyleGAN-brightgreen"></img> 使用SPADE+StyleGAN+CycleGAN来做插画/动漫生成
       - [ ] 跟黄菲合作
 
 
@@ -63,12 +63,12 @@
 
 ## 尚梅梅 <img src="https://img.shields.io/badge/Grade-研二-f759ab"></img>
 
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img>   基于图网络GNN的人脸美学/吸引力/光照质量评价
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> 基于图网络GNN的人脸美学/吸引力/光照质量评价
 - [ ] <img src="https://img.shields.io/badge/Category-数据集-green"></img>  [人脸光照数据集](https://github.com/yangyuke001/FIIQA-PyTorch)，人脸光照质量评价
 
 ## 方楠 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-超分辨率-orange"></img> <img src="https://img.shields.io/badge/Tag-Wavelet-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-NSS-brightgreen"></img>利用图像自然场景统计特性（小波域）进行图像超分辨率重建
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-超分辨率-orange"></img> <img src="https://img.shields.io/badge/Tag-Wavelet-brightgreen"></img> <img src="https://img.shields.io/badge/Tag-NSS-brightgreen"></img> 利用图像自然场景统计特性（小波域）进行图像超分辨率重建
 - [ ] <img src="https://img.shields.io/badge/Category-科研-green"> <img src="https://img.shields.io/badge/Topic-超分辨率-orange"></img> <img src="https://img.shields.io/badge/Tag-Dictionary-brightgreen"></img> 利用Kaiming He字典学习，进行图像超分辨率重建
 
 
@@ -78,11 +78,11 @@
 
 ## 阮杰 <img src="https://img.shields.io/badge/Grade-研一-ff85c0"></img>
 
--[ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Medical-orange"></img><img src="https://img.shields.io/badge/Tag-NAS-brightgreen"></img>Segmentation
+-[ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Medical-orange"></img> <img src="https://img.shields.io/badge/Tag-NAS-brightgreen"></img> Segmentation
 
 ## 沈傅豪 <img src="https://img.shields.io/badge/Grade-大三-ffadd2"></img>
 
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Medical-orange"></img><img src="https://img.shields.io/badge/Tag-NAS-brightgreen"></img>3D NAS for Cancer
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Medical-orange"></img><img src="https://img.shields.io/badge/Tag-NAS-brightgreen"></img>Segmentation
-- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-StyleTransfer-orange"></img><img src="https://img.shields.io/badge/Tag-GAN-brightgreen"></img>利用语义分割指导Image Style Transfer
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Medical-orange"></img> <img src="https://img.shields.io/badge/Tag-NAS-brightgreen"></img> 3D NAS for Cancer
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-Medical-orange"></img> <img src="https://img.shields.io/badge/Tag-NAS-brightgreen"></img> Segmentation
+- [ ] <img src="https://img.shields.io/badge/Category-科研-green"></img> <img src="https://img.shields.io/badge/Topic-StyleTransfer-orange"></img> <img src="https://img.shields.io/badge/Tag-GAN-brightgreen"></img> 利用语义分割指导Image Style Transfer
 
