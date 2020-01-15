@@ -30,7 +30,7 @@
 
 ## 全部
 
-- [ ]<img src="https://img.shields.io/badge/Category-其他-green"></img> 写年终总结报告，2020-01-16日提交到[邮箱](mailto:gaofei@hdu.edu.cn)
+- [ ] <img src="https://img.shields.io/badge/Category-其他-green"></img> 写年终总结报告，2020-01-16日提交到[邮箱](mailto:gaofei@hdu.edu.cn)
 
 ## 黄菲 <img src="https://img.shields.io/badge/Grade-研三-eb2f96"></img>
 
